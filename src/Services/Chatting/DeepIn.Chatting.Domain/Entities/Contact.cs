@@ -4,6 +4,7 @@ namespace DeepIn.Chatting.Domain.Entities;
 
 public class Contact : Entity
 {
+    public static string TableName => "contact";
     public string UserId { get; set; }
     public string FirstName { get; set; }
     public string LastName { get; set; }

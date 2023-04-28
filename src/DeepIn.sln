@@ -9,66 +9,66 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{3A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chatting", "Chatting", "{3677899F-DD99-4D0B-8C60-AA41D1D85433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Chatting.Infrastructure", "Services\Chatting\DeepIn.Chatting.Infrastructure\DeepIn.Chatting.Infrastructure.csproj", "{8A2A2853-2681-4692-89E3-DCAFD925EF91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Chatting.Infrastructure", "Services\Chatting\DeepIn.Chatting.Infrastructure\DeepIn.Chatting.Infrastructure.csproj", "{8A2A2853-2681-4692-89E3-DCAFD925EF91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Chatting.Domain", "Services\Chatting\DeepIn.Chatting.Domain\DeepIn.Chatting.Domain.csproj", "{81494128-4126-4BD2-8931-41FFC053E043}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Chatting.Domain", "Services\Chatting\DeepIn.Chatting.Domain\DeepIn.Chatting.Domain.csproj", "{81494128-4126-4BD2-8931-41FFC053E043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Chatting.Application", "Services\Chatting\DeepIn.Chatting.Application\DeepIn.Chatting.Application.csproj", "{25477768-37D9-457F-866D-6BBA3CF0536C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Chatting.Application", "Services\Chatting\DeepIn.Chatting.Application\DeepIn.Chatting.Application.csproj", "{25477768-37D9-457F-866D-6BBA3CF0536C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{CBC7EEDF-D79D-4BC1-BA1C-ECAF8A3C2EF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Domain", "Shared\DeepIn.Domain\DeepIn.Domain.csproj", "{8F44C1C0-F75C-40E9-8280-166CAE1A01A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Domain", "Shared\DeepIn.Domain\DeepIn.Domain.csproj", "{8F44C1C0-F75C-40E9-8280-166CAE1A01A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{97D9AA2A-1996-496C-88C1-D8FC922F6E7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Identity.Domain", "Services\Identity\DeepIn.Identity.Domain\DeepIn.Identity.Domain.csproj", "{DA523C36-E540-46F1-9065-768772B8D091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Identity.Domain", "Services\Identity\DeepIn.Identity.Domain\DeepIn.Identity.Domain.csproj", "{DA523C36-E540-46F1-9065-768772B8D091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Identity.Infrastructure", "Services\Identity\DeepIn.Identity.Infrastructure\DeepIn.Identity.Infrastructure.csproj", "{81F58B1E-6BF0-4015-9E6D-A121F3CD0688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Identity.Infrastructure", "Services\Identity\DeepIn.Identity.Infrastructure\DeepIn.Identity.Infrastructure.csproj", "{81F58B1E-6BF0-4015-9E6D-A121F3CD0688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Identity.Application", "Services\Identity\DeepIn.Identity.Application\DeepIn.Identity.Application.csproj", "{EA56DDEA-D71D-4220-A30C-9CC9249B6B2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Identity.Application", "Services\Identity\DeepIn.Identity.Application\DeepIn.Identity.Application.csproj", "{EA56DDEA-D71D-4220-A30C-9CC9249B6B2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Chatting.API", "Services\Chatting\DeepIn.Chatting.API\DeepIn.Chatting.API.csproj", "{B27401F7-78CB-4CC3-B7FD-4279AC14F8F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Chatting.API", "Services\Chatting\DeepIn.Chatting.API\DeepIn.Chatting.API.csproj", "{B27401F7-78CB-4CC3-B7FD-4279AC14F8F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Chatting.SignalrHub", "Services\Chatting\DeepIn.Chatting.SignalrHub\DeepIn.Chatting.SignalrHub.csproj", "{5AD8024A-178D-4DDF-816A-9150C83A55CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Chatting.SignalrHub", "Services\Chatting\DeepIn.Chatting.SignalrHub\DeepIn.Chatting.SignalrHub.csproj", "{5AD8024A-178D-4DDF-816A-9150C83A55CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Identity.API", "Services\Identity\DeepIn.Identity.API\DeepIn.Identity.API.csproj", "{C40ED139-2032-442E-9C33-749B2C88FEEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Identity.API", "Services\Identity\DeepIn.Identity.API\DeepIn.Identity.API.csproj", "{C40ED139-2032-442E-9C33-749B2C88FEEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Identity.SignalrHub", "Services\Identity\DeepIn.Identity.SignalrHub\DeepIn.Identity.SignalrHub.csproj", "{7834DEF3-087E-4B34-A939-7BA0023F3F81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Identity.SignalrHub", "Services\Identity\DeepIn.Identity.SignalrHub\DeepIn.Identity.SignalrHub.csproj", "{7834DEF3-087E-4B34-A939-7BA0023F3F81}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlobStorage", "BlobStorage", "{94690EDF-227B-4AE7-8638-CBDF556175D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Identity.Server", "Services\Identity\DeepIn.Identity.Server\DeepIn.Identity.Server.csproj", "{D8183147-43CB-4605-B3C4-F1B909CC0FE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Identity.Server", "Services\Identity\DeepIn.Identity.Server\DeepIn.Identity.Server.csproj", "{D8183147-43CB-4605-B3C4-F1B909CC0FE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.BlobStorage.API", "Services\BlobStorage\DeepIn.BlobStorage.API\DeepIn.BlobStorage.API.csproj", "{E64B0042-0DCD-4991-B2F5-CE614E0DEBEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.BlobStorage.API", "Services\BlobStorage\DeepIn.BlobStorage.API\DeepIn.BlobStorage.API.csproj", "{E64B0042-0DCD-4991-B2F5-CE614E0DEBEA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Messaging", "Messaging", "{751E93B0-A341-4945-A385-BC4F9A017738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Messaging.API", "Services\Messaging\DeepIn.Messaging.API\DeepIn.Messaging.API.csproj", "{9B1A4CD0-29C8-4C81-8042-2076BA473357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Messaging.API", "Services\Messaging\DeepIn.Messaging.API\DeepIn.Messaging.API.csproj", "{9B1A4CD0-29C8-4C81-8042-2076BA473357}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Email", "Email", "{9123B87C-CF94-427A-8496-E54DD6FBD430}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebHooks", "WebHooks", "{337F2587-5587-44BA-B0DF-00C02CCF0DA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.WebHooks.API", "Services\WebHooks\DeepIn.WebHooks.API\DeepIn.WebHooks.API.csproj", "{0D8DB041-430F-494F-81CC-E51A61F79ECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.WebHooks.API", "Services\WebHooks\DeepIn.WebHooks.API\DeepIn.WebHooks.API.csproj", "{0D8DB041-430F-494F-81CC-E51A61F79ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Email.API", "Services\Email\DeepIn.Email.API\DeepIn.Email.API.csproj", "{C50A7725-EB2F-488B-AB76-24D67997BBCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Email.API", "Services\Email\DeepIn.Email.API\DeepIn.Email.API.csproj", "{C50A7725-EB2F-488B-AB76-24D67997BBCD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notification", "Notification", "{39EA5A7B-CF4F-42D1-9B6C-57A4311494D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Notofication.API", "Services\DeepIn.Notofication.API\DeepIn.Notofication.API.csproj", "{932D2DF0-2955-4F78-8497-83D2C586068D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Notofication.API", "Services\DeepIn.Notofication.API\DeepIn.Notofication.API.csproj", "{932D2DF0-2955-4F78-8497-83D2C586068D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{47D3AB51-78E5-4BCC-816A-A1605E1342DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.WebSPA", "Clients\DeepIn.WebSPA\DeepIn.WebSPA.csproj", "{CEC49551-4D85-4437-A2DC-6E2936596DE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.WebSPA", "Clients\DeepIn.WebSPA\DeepIn.WebSPA.csproj", "{CEC49551-4D85-4437-A2DC-6E2936596DE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Desktop", "Clients\DeepIn.Desktop\DeepIn.Desktop.csproj", "{67D3BB10-B76F-4E63-AD12-18B5C6CC2462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Desktop", "Clients\DeepIn.Desktop\DeepIn.Desktop.csproj", "{67D3BB10-B76F-4E63-AD12-18B5C6CC2462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Identity.WebSPA", "Clients\DeepIn.Identity.WebSPA\DeepIn.Identity.WebSPA.csproj", "{E0093760-449F-4215-B431-1E3FA834257B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Identity.WebSPA", "Clients\DeepIn.Identity.WebSPA\DeepIn.Identity.WebSPA.csproj", "{E0093760-449F-4215-B431-1E3FA834257B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DEED3720-E62E-4611-8E25-001102985065}"
 	ProjectSection(SolutionItems) = preProject
-		azure-pipelines.yml = azure-pipelines.yml
 		.env = .env
+		azure-pipelines.yml = azure-pipelines.yml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateways", "ApiGateways", "{EB0A89F3-EC4D-4395-A31C-D82B07F94248}"
@@ -83,17 +83,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "config", "config", "{0ADE55
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bff", "Bff", "{7E84E082-69AF-4287-BBCD-7A0014667828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.WebSPA.HttpAggregator", "ApiGateways\Bff\DeepIn.WebSPA.HttpAggregator\DeepIn.WebSPA.HttpAggregator.csproj", "{FD8628DE-1B38-4C9E-9291-0666EC728BED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.WebSPA.HttpAggregator", "ApiGateways\Bff\DeepIn.WebSPA.HttpAggregator\DeepIn.WebSPA.HttpAggregator.csproj", "{FD8628DE-1B38-4C9E-9291-0666EC728BED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Desktop.HttpAggregator", "ApiGateways\Bff\DeepIn.Desktop.HttpAggregator\DeepIn.Desktop.HttpAggregator.csproj", "{A04CFC07-F534-47E4-A752-9BA99ABB19AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Desktop.HttpAggregator", "ApiGateways\Bff\DeepIn.Desktop.HttpAggregator\DeepIn.Desktop.HttpAggregator.csproj", "{A04CFC07-F534-47E4-A752-9BA99ABB19AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.EntityFrameworkCore", "Shared\DeepIn.EntityFrameworkCore\DeepIn.EntityFrameworkCore.csproj", "{D6051462-A513-4076-93D0-F5EB55082EA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.EntityFrameworkCore", "Shared\DeepIn.EntityFrameworkCore\DeepIn.EntityFrameworkCore.csproj", "{D6051462-A513-4076-93D0-F5EB55082EA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Caching", "Shared\DeepIn.Caching\DeepIn.Caching.csproj", "{532CA33F-CF86-41B8-8ECF-74786C8E7676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Caching", "Shared\DeepIn.Caching\DeepIn.Caching.csproj", "{532CA33F-CF86-41B8-8ECF-74786C8E7676}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Caching.Redis", "Shared\DeepIn.Caching.Redis\DeepIn.Caching.Redis.csproj", "{6BBDF131-B2DE-45EF-858C-C514FA1523A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepIn.Caching.Redis", "Shared\DeepIn.Caching.Redis\DeepIn.Caching.Redis.csproj", "{6BBDF131-B2DE-45EF-858C-C514FA1523A4}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{3EBCB7B1-6A50-4866-89E9-282D6C56C851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.Application", "Shared\DeepIn.Application\DeepIn.Application.csproj", "{2B9E6AA3-C7B5-4637-AE90-C4A36EF3851F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.EventBus", "Shared\DeepIn.EventBus\DeepIn.EventBus.csproj", "{F38FCE59-F96F-4419-B5EF-9F89BCDBF52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepIn.EventBus.RabbitMQ", "Shared\DeepIn.EventBus.RabbitMQ\DeepIn.EventBus.RabbitMQ.csproj", "{123321F8-535D-4075-BDE5-B3B27E92D8AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +213,18 @@ Global
 		{3EBCB7B1-6A50-4866-89E9-282D6C56C851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EBCB7B1-6A50-4866-89E9-282D6C56C851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EBCB7B1-6A50-4866-89E9-282D6C56C851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9E6AA3-C7B5-4637-AE90-C4A36EF3851F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9E6AA3-C7B5-4637-AE90-C4A36EF3851F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9E6AA3-C7B5-4637-AE90-C4A36EF3851F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9E6AA3-C7B5-4637-AE90-C4A36EF3851F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38FCE59-F96F-4419-B5EF-9F89BCDBF52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38FCE59-F96F-4419-B5EF-9F89BCDBF52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38FCE59-F96F-4419-B5EF-9F89BCDBF52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38FCE59-F96F-4419-B5EF-9F89BCDBF52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123321F8-535D-4075-BDE5-B3B27E92D8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123321F8-535D-4075-BDE5-B3B27E92D8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123321F8-535D-4075-BDE5-B3B27E92D8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123321F8-535D-4075-BDE5-B3B27E92D8AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -251,6 +269,9 @@ Global
 		{D6051462-A513-4076-93D0-F5EB55082EA3} = {CBC7EEDF-D79D-4BC1-BA1C-ECAF8A3C2EF8}
 		{532CA33F-CF86-41B8-8ECF-74786C8E7676} = {CBC7EEDF-D79D-4BC1-BA1C-ECAF8A3C2EF8}
 		{6BBDF131-B2DE-45EF-858C-C514FA1523A4} = {CBC7EEDF-D79D-4BC1-BA1C-ECAF8A3C2EF8}
+		{2B9E6AA3-C7B5-4637-AE90-C4A36EF3851F} = {CBC7EEDF-D79D-4BC1-BA1C-ECAF8A3C2EF8}
+		{F38FCE59-F96F-4419-B5EF-9F89BCDBF52F} = {CBC7EEDF-D79D-4BC1-BA1C-ECAF8A3C2EF8}
+		{123321F8-535D-4075-BDE5-B3B27E92D8AD} = {CBC7EEDF-D79D-4BC1-BA1C-ECAF8A3C2EF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59B7CCC2-B770-45BC-BF73-B9C996807A78}

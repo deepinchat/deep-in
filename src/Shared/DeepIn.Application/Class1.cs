@@ -1,4 +1,4 @@
-﻿namespace DeepIn.EntityFrameworkCore
+﻿namespace DeepIn.Application
 {
     public class Class1
     {
